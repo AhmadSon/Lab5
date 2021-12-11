@@ -158,7 +158,7 @@ while True:
 
 ```
 - <b>Hasil Program</b><p>
-![Gambar 03](Image/TPratikum.PNG)
+![Gambar 03](Image/HPratikum.PNG)
 <p>
 
 # END
