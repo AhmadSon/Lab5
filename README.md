@@ -162,3 +162,4 @@ while True:
 <p>
 
 # END
+![Gambar 04](Image/anime-love.gif)
